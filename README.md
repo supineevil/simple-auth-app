@@ -5,6 +5,8 @@
 <p align="center">
   <a href="https://github.com/ShaanCoding/ReadME-Generator">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
+    ![logo](https://github.com/supineevil/simple-auth-app/assets/75155924/2c0e5f38-8abb-401c-aa75-460584bf8bae)
+
   </a>
 
   <p align="center">
